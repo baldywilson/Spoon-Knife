@@ -3,3 +3,6 @@ This is a fork. We need more here
 This is a change in a branch
 
 This is a hotfix
+
+How conflicted
+
