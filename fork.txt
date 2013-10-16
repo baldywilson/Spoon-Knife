@@ -4,5 +4,6 @@ This is a change in a branch
 
 This is a hotfix
 
+Deliberately make a conflict
 How conflicted
 
