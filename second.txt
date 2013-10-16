@@ -1,3 +1,5 @@
 This is a second file
 
 Needed a second paragraph
+
+Let's make another change to make life interesting
